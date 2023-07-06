@@ -5,6 +5,9 @@ SUBLEVEL = 304
 EXTRAVERSION =
 NAME = "People's Front"
 
+SHELL=/bin/bash
+export SHELL
+
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
